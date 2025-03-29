@@ -4,8 +4,7 @@ import datetime
 from PIL import Image
 import plotly.express as px
 import plotly.graph_objects as go
-import json
-import os
+
 
 df = pd.read_excel("accident.xlsx")
 
