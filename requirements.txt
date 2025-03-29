@@ -1,3 +1,5 @@
 streamlit
-plotly
-pytz
+pandas
+Pillow
+plotly-express
+openpyxl
